@@ -1,0 +1,7 @@
+Christian Franchin dos Santos
+Giovani Rubim Francisco
+Anderson Bernardy Martinelli
+
+Referência:
+	http://timmurphy.org/2010/05/04/pthreads-in-c-a-minimal-working-example/
+	Material fornecido em sala de aula
